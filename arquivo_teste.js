@@ -7,4 +7,5 @@ console.log("A=" + area);
 
 /*
 Inserindo informações na branch funcionalidade2
+complementando a informaçãoS
 */
